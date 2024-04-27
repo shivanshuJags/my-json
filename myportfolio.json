@@ -1,7 +1,9 @@
 {
   "navHeader": ["Home", "Portfolio", "Blogs", "Contacts"],
   "logoInitials": "SS",
+  "resumePath": "https://github.com/shivanshuJags/my-json/blob/main/Shivanshu_sahu_april.pdf",
   "candidateData": {
+    "title": "Intrduction",
     "firstName": "Shivanshu",
     "lastName": "Sahu",
     "fullName": "Shivanshu Sahu",
@@ -9,22 +11,20 @@
     "primaryRole": "Full Stack Developer",
     "SecondaryRole": "UI Developer",
     "resumeCta": "Download CV",
+    "email": "shivanshusahu899@gmail.com",
+    "contactme": "contact me",
     "profiles": [
       {
-        "name": "linked in",
-        "url": ""
+        "name": "LinkedIn",
+        "url": "https://www.linkedin.com/in/shivanshu-sahu-a1b1a77b/"
       },
       {
-        "name": "mail",
-        "url": ""
+        "name": "Gmail",
+        "url": "mailto:shivanshusahu899@gmail.com"
       },
       {
-        "name": "youtube",
-        "url": ""
-      },
-      {
-        "name": "github",
-        "url": ""
+        "name": "Github",
+        "url": "https://github.com/shivanshuJags"
       }
     ]
   },
