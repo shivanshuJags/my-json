@@ -37,7 +37,7 @@
         "index": 1,
         "duration": "Mar 2024 — Present",
         "title": "Sodexo - Associate Staff Engineer",
-        "Organisation": "Nagarro Softwares",
+        "organisation": "Nagarro Softwares",
         "description": "Build and maintain critical components used to construct Sodexo Frontend, across the whole product. Work closely with cross-functional teams, including developers, designers, and product managers, to implement and advocate for best practices in web accessibility.",
         "badge": "React JS,Node JS,Next JS,Typescript,Javascript,HTML,CSS"
       },
@@ -45,7 +45,7 @@
         "index": 2,
         "duration": "Sept 2023 — Mar 2024",
         "title": "Maruti Suzuki - Associate Staff Engineer",
-        "Organisation": "Nagarro Softwares",
+        "organisation": "Nagarro Softwares",
         "description": "Build, style, and ship high-quality websites, design systems,and digital experiences for a diverse array of projects for clients.",
         "badge": "React JS,Node JS,Typescript,JavaScript,HTML,CSS,React-Bootstrap,React-Redux"
       },
@@ -53,7 +53,7 @@
         "index": 3,
         "duration": "March 2023 — Sept 2023",
         "title": "Schnider Electric - Associate Staff Engineer",
-        "Organisation": "Nagarro Softwares",
+        "organisation": "Nagarro Softwares",
         "description": "Developed and styled interactive web apps for Schnider Electric, including the other services of Schnider Electric’s products with user authentication.",
         "badge": "React JS,Node JS,Typescript,JavaScript,HTML,CSS,React-Bootstrap,React-Redux,SEO,Adobe Analytics,Jest"
       },
@@ -61,7 +61,7 @@
         "index": 4,
         "duration": "May 2021 — March 2023",
         "title": "ICICI Bank - Senior Engineer",
-        "Organisation": "Nagarro Softwares",
+        "organisation": "Nagarro Softwares",
         "description": "Build around 1800 of pages of ICICI Products and features with multiple functionalities. Also owned multiple pages responsibility on my own and delivered the same.",
         "badge": "React JS,Node JS,JavaScript,HTML,CSS,AEM,SEO,Adobe Analytics"
       },
@@ -69,7 +69,7 @@
         "index": 5,
         "duration": "Nov 2019 — May 2021",
         "title": "Jetblue Airways - Software Engineer",
-        "Organisation": "Tata Consultancy Services",
+        "organisation": "Tata Consultancy Services",
         "description": "Implement complex UI features and interactions, ensuring cross-browser compatibility and adherence to accessibility standards, Optimize frontend performance through techniques such as lazy loading, code splitting, and image optimization to improve page load times and enhance user experience.",
         "badge": "Angular 8,JavaScript,HTML,CSS,Rxjs,Redux Ngrx,Tachyons,SEO,Jest"
       },
@@ -77,7 +77,7 @@
         "index": 6,
         "duration": "Apr 2018 — Nov 2019",
         "title": "Barnes & Noble - Software Engineer",
-        "Organisation": "Tata Consultancy Services",
+        "organisation": "Tata Consultancy Services",
         "description": "Design and develop responsive, user-friendly web interfaces, Implement and maintain automated testing frameworks (e.g., Jest) to ensure code quality, reliability, and cross-browser compatibility.",
         "badge": "Angular 8,JavaScript,HTML,CSS,Rxjs,Redux Ngrx,Adobe Analytics,SEO,Jest"
       },
@@ -85,7 +85,7 @@
         "index": 7,
         "duration": "Jul 2017 — March 2018",
         "title": "Bharti Airtel - Support Engineer",
-        "Organisation": "Accenture",
+        "organisation": "Accenture",
         "description": "Design and develop responsive, user-friendly web interfaces using Core Vanilla JavaScript.",
         "badge": "Javascript,HTML,CSS"
       }
