@@ -91,6 +91,19 @@
       }
     ]
   },
+  "projects": {
+    "title": "Projects",
+    "shortDescription1": "I have built various different projects to enhance my skills as a frontend developer.",
+    "timeline": [
+      {
+        "index": 1,
+        "url": "https://sahucreations.netlify.app",
+        "title": "Sahu Creations Website",
+        "description": "Build and maintain critical components used to construct Sahu creation Frontend, across the whole product. This website is still under development and will be used for my family business",
+        "badge": "React JS,Responsive,Typescript,Javascript,HTML,CSS,Redux"
+      }
+    ]
+  },
   "skills": {
     "title": "Skills",
     "shortDescription1": "The main area of expertise is front end development (client side of the web).",
